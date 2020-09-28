@@ -130,7 +130,7 @@ var config = {
                 position: "top_bar",
                 header: "Next Train - Atlantic Ave",
                 config: {
-                         apiKey: "aySszHdO7C5bMmmmE0yDXaKfnZ0MOOPW6M9mpLr7",
+                         apiKey: "API_KEY",
                          displayType: "list",
                          mtaType: "train",
                          stations: {
